@@ -1,3 +1,7 @@
 <template>
-  <div>main page</div>
+  <div>
+    main page
+    <Assets />
+    <IconsBell />
+  </div>
 </template>
